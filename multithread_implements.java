@@ -26,7 +26,7 @@ class multithread_implements
 		for(int i=0;i<5;i++)
 		{
 			System.out.println("main method");
-			thraed.sleep(1000);
+			Thraed.sleep(1000);
 		}
 	}
 }
